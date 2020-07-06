@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">HelloConstraints</string>
+    <string name="Toast">Toast</string>
+    <string name="Count">Count</string>
+    <string name="Zero">0</string>
+    <string name="toast_message">Hi Liew Kok Xiang AACS3353</string>
+    <string name="button_zero">Zero</string>
+</resources>
